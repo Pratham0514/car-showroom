@@ -16,67 +16,67 @@
 ## Cares =
 ![]()
 #### Cares we have to sell
-1. BMW ![code for BMW page](./code/bmw.html)
-     - Series 6  ![Vist the code](./code/bmwsubpage1.html)
+1. BMW [code for BMW page](./code/bmw.html)
+     - Series 6  [Vist the code](./code/bmwsubpage1.html)
          1. Silver
          2. Black
          3. White
          4. Red
-     - Series 7  ![Vist the code](./code/bmwsubpage2.html)
+     - Series 7  [Vist the code](./code/bmwsubpage2.html)
         1. Silver
         2. Brown-Black
         3. Black-Grey
         4. Blue
-2. Mercedes ![code for Mercedes page](./code/mercedes.html)
-     - Maybach   ![Vist the code](./code/mercedessubpage1.html)
+2. Mercedes [code for Mercedes page](./code/mercedes.html)
+     - Maybach   [Vist the code](./code/mercedessubpage1.html)
         1. Red-Gold
         2. BrownGold-Black
         3. Grey-Black
         4. Black-white
-     - S-class   ![Vist the code](./code/mercedessubpage2.html)
+     - S-class   [Vist the code](./code/mercedessubpage2.html)
         1. Silver
         2. Black
         3. Sky-Blue
         4. White
-     - G-Wagon     ![Vist the code](./code/mercedessubpage3.html)
+     - G-Wagon   [Vist the code](./code/mercedessubpage3.html)
         1.  Cote-Black-Gold
         2. White
         3. Dark-Green
         4. Black-Gold
-3. Mini Cooper ![code for Mini Cooper page](./code/mercedes.html)
-     - Mini-coop-2s  ![Vist the code](./code/minicoopersubpage1.html)
+3. Mini Cooper [code for Mini Cooper page](./code/mercedes.html)
+     - Mini-coop-2s  [Vist the code](./code/minicoopersubpage1.html)
         1. Black
         2. White
         3. Grey
         4. Sky-Blue
-     - CountryMan   ![Vist the code](./code/minicoopersubpage2.html)
+     - CountryMan   [Vist the code](./code/minicoopersubpage2.html)
         1. White
         2. Dark-Green
         3. Grey
         4. Blue
-4. Range Rover  ![code for Range Rover page](./code/rangerover.html)
-      - vogue   ![Vist the code](./code/rangeroversubpage1.html)
+4. Range Rover  [code for Range Rover page](./code/rangerover.html)
+      - vogue   [Vist the code](./code/rangeroversubpage1.html)
         1. Brown-Gold
         2. White
         3. Dark-Green
         4. Black
-      - Defender ![Vist the code](./code/minicoopersubpage2.html)
+      - Defender [Vist the code](./code/minicoopersubpage2.html)
         1. White
         2. Brown-Black
         3. Darklight-Green
         4. Black
-5. Rolls Royce  ![code for Rolls Royce page](./code/rollsroyce.html)
-      - Phantom ![Vist the code](./code/rollsroycesubpage1.html)
+5. Rolls Royce  [code for Rolls Royce page](./code/rollsroyce.html)
+      - Phantom [Vist the code](./code/rollsroycesubpage1.html)
         1. Silver
         2. White
         3. Black-Grey
         4. Blue
-      - spectre  ![Vist the code](./code/rollsroycesubpage2.html)
+      - spectre  [Vist the code](./code/rollsroycesubpage2.html)
         1. Black-Gold
         2. Black-Sky-Blue
         3. Black-Light-Green
         4. White-red
-      - Phantom  ![Vist the code](./code/rollsroycesubpage3.html)
+      - Phantom  [Vist the code](./code/rollsroycesubpage3.html)
         1. Drak-Green-Black
         2. Black-White
         3. Red
