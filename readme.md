@@ -53,7 +53,7 @@
         <img src="./img/images/homepage1.5.jpg" height="250px" width="470px" />
         <img src="./img/images/homepage1.6.jpg" height="250px" width="470px" />
     </div>
-)
+
 </body>
-</html>
+</html>)
 <hr/>
