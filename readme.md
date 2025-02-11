@@ -11,7 +11,8 @@
 +At PR Showroom, every car is a masterpiece, blending cutting-edge technology with unmatched style and performance. Explore the latest models from world-renowned brands and find the car that speaks to you
 
 ![Home page](./img/img%20for%20readme/home%20page%201.png)
-"
+--- 
+html 5
 <!DOCTYPE html>
 <html>
 <head>
@@ -55,5 +56,5 @@
     </div>
 
 </body>
-</html>"
+</html> ---
 <hr/>
