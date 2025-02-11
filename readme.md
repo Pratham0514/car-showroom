@@ -16,7 +16,7 @@
 ## Cares =
 ![]()
 #### Cares we have to sell
-1. BMW [code for BMW page](./code/bmw.html)
+1. BMW [ BMW page](./code/bmw.html)
      - Series 6  [Vist the code](./code/bmwsubpage1.html)
          1. Silver
          2. Black
@@ -27,7 +27,7 @@
         2. Brown-Black
         3. Black-Grey
         4. Blue
-2. Mercedes [code for Mercedes page](./code/mercedes.html)
+2. Mercedes [ Mercedes page](./code/mercedes.html)
      - Maybach   [Vist the code](./code/mercedessubpage1.html)
         1. Red-Gold
         2. BrownGold-Black
@@ -43,7 +43,7 @@
         2. White
         3. Dark-Green
         4. Black-Gold
-3. Mini Cooper [code for Mini Cooper page](./code/mercedes.html)
+3. Mini Cooper [ Mini Cooper page](./code/mercedes.html)
      - Mini-coop-2s  [Vist the code](./code/minicoopersubpage1.html)
         1. Black
         2. White
@@ -54,7 +54,7 @@
         2. Dark-Green
         3. Grey
         4. Blue
-4. Range Rover  [code for Range Rover page](./code/rangerover.html)
+4. Range Rover  [ Range Rover page](./code/rangerover.html)
       - vogue   [Vist the code](./code/rangeroversubpage1.html)
         1. Brown-Gold
         2. White
@@ -65,7 +65,7 @@
         2. Brown-Black
         3. Darklight-Green
         4. Black
-5. Rolls Royce  [code for Rolls Royce page](./code/rollsroyce.html)
+5. Rolls Royce  [ Rolls Royce page](./code/rollsroyce.html)
       - Phantom [Vist the code](./code/rollsroycesubpage1.html)
         1. Silver
         2. White
@@ -83,4 +83,14 @@
         4. Silver<br>
 <b>Note =</b> Every details ahe metion and  youTube preference are also given.
 For Booking from is also given.
+
+![Cares page](./img/img%20for%20readme/cares%201.png)
 <hr/><hr/>
+
+## Contact and Team Of Showroom =
+
+If there is any Issues and want some help here you can contact here
+
+|postion |Contact |Email |
+--;---;--; 
+
