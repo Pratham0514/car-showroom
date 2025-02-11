@@ -1,5 +1,6 @@
 # <p align="center">PR SHOWROOM</p>
 ## About Us =
+[code for form about](index.html)
  ### Why Choose PR Showroom?
 
 + <b>Wide Range of Cars:</b>From sleek sedans to powerful SUVs and eco-friendly electric vehicles, we have something for everyonel.
@@ -14,7 +15,7 @@
 <hr/><hr/>
 
 ## Cares =
-![]()
+[code for form page](./code/cars.html)
 #### Cares we have to sell
 1. BMW [ BMW page](./code/bmw.html)
      - Series 6  [Vist the code](./code/bmwsubpage1.html)
@@ -88,6 +89,7 @@ For Booking from is also given.
 <hr/><hr/>
 
 ## Contact and Team Of Showroom =
+[code for form contact](./code/contact.html)
 
 If there is any Issues and want some help here you can contact here<br>
 Team member are also added in thi page
@@ -95,10 +97,11 @@ Team member are also added in thi page
 <hr/><hr/>
 
 ## Form page =
+[code for form page](./code/form.html)
 
-Customer want to Enquiry for other card and want some new car as they need <br>
-We take some Basic details of Customer<br>
-Car  as per Customer need and Car they want to import
+Customer want to <i>Enquiry for other car and want some new car as they need</i> <br>
+We take some <i>Basic details of Customer<i><br>
+<b>Car  as per Customer need and Car they want to import</b>
 
 ![Form page ](./img/img%20for%20readme/form%201.png)
 <hr/><hr/>
