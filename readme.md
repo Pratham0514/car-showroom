@@ -105,3 +105,6 @@ We take some <i>Basic details of Customer<i><br>
 
 ![Form page ](./img/img%20for%20readme/form%201.png)
 <hr/><hr/>
+
+## vist to project =
+http://luxzcrsls.netlify.app
